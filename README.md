@@ -10,6 +10,7 @@ A modern React application for managing and discovering recipes, built with Vite
 - Responsive design with TailwindCSS
 - Icon integration with Lucide React
 - Client-side routing with React Router
+- Edamam API
 
 ## 🚀 Getting Started
 
@@ -18,7 +19,8 @@ A modern React application for managing and discovering recipes, built with Vite
 1. **Clone the repository**
 
 ```bash
-git clone [your-repo-url]
+git clone [repo-url]
 cd recipe-app
 npm install
+touch .env
 ```
